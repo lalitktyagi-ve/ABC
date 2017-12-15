@@ -1,0 +1,9 @@
+{
+  "name": "galleria",
+  "version": "0.0.0",
+  "description": "Galleria",
+  "main": "server.js",
+  "author": {
+    "name": "Lalit Tyagi"
+  }
+}
